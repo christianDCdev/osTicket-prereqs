@@ -121,3 +121,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install "VC_redist.x86.exe" from <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
   
 </p>
+<br />
+
+<h3>&#9340; Install MySQL 5.5.62</h3>
+
+<p>
+
+- Install "mysql-5.5.62-win32.msi" from <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
+- Select "Typical" Setup
+- Launch Configuration Wizard
+- Select "Standard" Configuration
+- Choose and confirm password (DO NOT FORGET)
+  
+</p>
+<br />
+
+<h3>&#9341; Launch IIS as an Administrator</h3>
+
+<p>
+
+- Open Windows search bar, type "IIS"
+- Right click application and "Run as administrator"
+    
+</p>
+<br />
+
+<h3>&#9342; Register PHP Manager</h3>
+
+<p>
+
+- Within IIS, click "PHP Manager"
+- Under "PHP Setup", click "Register new PHP version"
+<img src="https://i.imgur.com/GAGkdGk.png" alt="PHP version"/>
+
+- After clicking "Register new PHP version", you will be required to provide a path to "php-cgi.exe"
+- Click the 3 dots to the right to open file explorer
+- Navigate to Windows (C:) Drive -> PHP -> select "php-cgi" -> click "Ok"
+<img src="https://i.imgur.com/QHD4pud.png" alt="PHP path"/>
+
+</p>
