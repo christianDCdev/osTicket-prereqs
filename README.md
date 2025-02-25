@@ -68,10 +68,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Open the control panel and select "Programs"
 - Click on "Turn Windows features on or off"
-- Scroll down to and expand "Internet Information Services(IIS)"
-- Expand "World Wide Web Services"
+- Scroll down to enable and expand "Internet Information Services(IIS)"
+- Enable and expand "World Wide Web Services"
 - Expand "Application Development Features"
 - Enable CGI then hit "Ok"
+<img src="https://i.imgur.com/oOkr5uf.png" alt="IIS Enable"/>
   
 </p>
 <br />
@@ -133,8 +134,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Install "mysql-5.5.62-win32.msi" from <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
 - Select "Typical" Setup
+<img src="https://i.imgur.com/AXPAGaG.png" alt="MySql Typical Setup"/>
+
 - Launch Configuration Wizard
 - Select "Standard" Configuration
+<img src="https://i.imgur.com/Ql5ZXG5.png" alt="MySql Standard config"/>
+
 - Choose and confirm password (DO NOT FORGET)
   
 </p>
