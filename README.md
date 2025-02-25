@@ -169,3 +169,53 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/QHD4pud.png" alt="PHP path"/>
 
 </p>
+<br />
+
+<h3>&#9343; Restart IIS</h3>
+
+<p>
+
+- Within IIS, go to Home screen
+- Click restart on the right side of app under "Manage Server"
+<img src="https://i.imgur.com/UPFSr7e.png" alt="Restart IIS"/>
+    
+</p>
+<br />
+
+<h3>&#9344; Install osTicket</h3>
+
+<p>
+
+- Extract files in "osTicket-v1.15.8" folder
+- Open new File Explorer window
+- Within new File Explorer window, navigate to Windows (C:) Drive -> "inetpub" -> "wwwroot"
+<img src="https://i.imgur.com/2FRnN9S.png" alt="Navigating to wwwroot folder"/>
+
+- Drag "Upload" folder from extracted files into the "wwwroot" folder
+- Rename "Upload" folder to "osTicket"
+<img src="https://i.imgur.com/w2vDNdn.png" alt="Rename to osTicket"/>
+    
+</p>
+<br />
+
+<h3>&#9345; Restart IIS Again</h3>
+
+<p>
+
+- Refer to Step 12
+    
+</p>
+<br />
+
+<h3>&#9346; Launch osTicket Site</h3>
+
+<p>
+
+- Within IIS, expand the "Sites" dropdown -> expand "Default Web Site" -> click "osTicket"
+- On the right side of the window, click on "Browse *80 (http)"
+<img src="https://i.imgur.com/AoGYYGx.png" alt="Browse *80"/>
+
+- If done correctly, the osTicket site should load
+<img src="https://i.imgur.com/4VeB3q0.png" alt="osTicket Site"/>
+    
+</p>
