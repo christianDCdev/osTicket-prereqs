@@ -80,7 +80,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-- Install "PHPManagerForIIS_V1.5.0.msi" from <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
+- Install "PHPManagerForIIS_V1.5.0.msi" from downloaded <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
   
 </p>
 <br />
@@ -89,7 +89,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-- Install "rewrite_amd64_en-US.msi" from <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
+- Install "rewrite_amd64_en-US.msi" from downloaded <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
   
 </p>
 <br />
@@ -101,6 +101,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Open File Explorer
 - Navigate to Windows (C:) Drive
 - In the Windows (C:) Drive, create a new folder titled "PHP"
+<img src="https://i.imgur.com/PMXi3QC.png" alt="PHP Folder"/>
   
 </p>
 <br />
@@ -109,7 +110,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 
-- Extract "php-7.3.8-nts-Win32-VC15-x86.zip" files into newly created "PHP" folder in Windows (C:) Drive
+- Locate "php-7.3.8-nts-Win32-VC15-x86.zip" folder in downloaded <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
+<img src="https://i.imgur.com/zCEBJk8.png" alt="PHP Files"/>
+
+- Right click folder -> select "Extract all" -> click "Browse" -> select "PHP" folder located in Windows (C:) Drive
   
 </p>
 <br />
