@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install HeidiSQL from the <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
 
 <h2>Installation Steps</h2>
-<h3>&#9332; Create a Virtual Machine(VM) in Azure</h3>
+<h3>&&#9312; Create a Virtual Machine(VM) in Azure</h3>
 
 <p>
 
@@ -40,7 +40,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9333; Connect to your VM through Microsoft Remote Desktop App</h3>
+<h3>&#9313; Connect to your VM through Microsoft Remote Desktop App</h3>
 
 <p>
 
@@ -52,7 +52,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9334; Download <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a> within the virtual machine </h3>
+<h3>&#9314; Download <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a> within the virtual machine </h3>
 
 <p>
 
@@ -62,7 +62,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9335; Enable IIS</h3>
+<h3>&#9315; Enable IIS</h3>
 
 <p>
 
@@ -77,7 +77,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9336; Install PHP Manager</h3>
+<h3>&#9316; Install PHP Manager</h3>
 
 <p>
 
@@ -86,7 +86,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9337; Install Rewrite Module</h3>
+<h3>&#9317; Install Rewrite Module</h3>
 
 <p>
 
@@ -95,7 +95,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9338; Create a New Directory</h3>
+<h3>&#9318; Create a New Directory</h3>
 
 <p>
 
@@ -107,7 +107,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9339; Extract "php-7.3.8-nts-Win32-VC15-x86.zip" </h3>
+<h3>&#9319; Extract "php-7.3.8-nts-Win32-VC15-x86.zip" </h3>
 
 <p>
 
@@ -119,7 +119,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9340; Install "VC_redist.x86.exe"</h3>
+<h3>&#9320; Install "VC_redist.x86.exe"</h3>
 
 <p>
 
@@ -128,7 +128,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9340; Install MySQL 5.5.62</h3>
+<h3>&#9321; Install MySQL 5.5.62</h3>
 
 <p>
 
@@ -145,7 +145,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9341; Launch IIS as an Administrator</h3>
+<h3>&#9322; Launch IIS as an Administrator</h3>
 
 <p>
 
@@ -155,7 +155,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9342; Register PHP Manager</h3>
+<h3>&#9323; Register PHP Manager</h3>
 
 <p>
 
@@ -171,7 +171,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9343; Restart IIS</h3>
+<h3>&#9324; Restart IIS</h3>
 
 <p>
 
@@ -182,7 +182,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9344; Install osTicket</h3>
+<h3>&#9325; Install osTicket</h3>
 
 <p>
 
@@ -198,7 +198,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9345; Restart IIS Again</h3>
+<h3>&#9326; Restart IIS Again</h3>
 
 <p>
 
@@ -207,7 +207,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9346; Launch osTicket Site</h3>
+<h3>&#9327; Launch osTicket Site</h3>
 
 <p>
 
@@ -221,7 +221,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9347; Enable Extensions</h3>
+<h3>&#9328; Enable Extensions</h3>
 
 <p>
 
@@ -245,7 +245,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9348; Rename "ost-config.php"</h3>
+<h3>&#9329; Rename "ost-config.php"</h3>
 
 <p>
 
@@ -257,7 +257,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9349; Assign Permissions in "ost-config.php"</h3>
+<h3>&#9330; Assign Permissions in "ost-config.php"</h3>
 
 <p>
 
@@ -273,11 +273,44 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9350; Assign Permissions in "ost-config.php"</h3>
+<h3>&#9331; Continue osTicket Setup"</h3>
 
 <p>
 
-- fsf
-- 
+- Within the osTicket webpage, click "Continue"
+- Fill out "System Settings" and "Admin User" section (NOTE: "Default Email" and the email under "Admin User" Section should differ)
+<img src="https://i.imgur.com/Ji2MUcQ.png" alt="osTicket Installation Window"/>
+
+- Skip "Database Settings" for now
     
 </p>
+<br />
+
+<h3>&#12881; Install HeidiSQL"</h3>
+
+<p>
+
+- Install "HeidiSQL_12.3.0.6589_Setup" from downloaded <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
+- Launch HeidiSQL
+- Click "New" at bottom left of window to start creating a session
+- Set "User" to "root" and fill out "Password" with the same password you used when completing step 9 (MySQL installation)
+- Click "Open" to connect to session database
+- Right click on "Unnamed" to create a database and name it "osTicket", then click "Ok" to confirm
+<img src="https://i.imgur.com/3SiNiJt.png" alt="osTicket Database Creation"/>
+
+</p>
+<br />
+
+<h3>&#12882; Finish osTicket Setup"</h3>
+
+<p>
+
+- Within osTicket webpage, fill out "Database Settings"
+<img src="https://i.imgur.com/YCbeDsb.png" alt="osTicket Database settings"/>
+
+- Click "Install Now" and you osTicket will complete the installation
+<img src="https://i.imgur.com/1SGEcc6.png" alt="osTicket Finished setup"/>
+</p>
+<br />
+
+<h2 align=center> Congratulations on successfully setting up osTicket on your Machine !!</h2>
