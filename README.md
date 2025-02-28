@@ -245,10 +245,39 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h3>&#9348; Rename "ost-config.ph"</h3>
+<h3>&#9348; Rename "ost-config.php"</h3>
 
 <p>
 
+- Open File Explorer
+- Within File Explorer, navigate to Windows (C:) Drive -> "inetpub" -> "wwwroot" -> "osTicket" -> "include"
+- Within "include" folder, locate "ost-sampleconfig.php" file
+- Rename file to "ost-config.php"
+    
+</p>
+<br />
+
+<h3>&#9349; Assign Permissions in "ost-config.php"</h3>
+
+<p>
+
+- Right click the recently renamed file "ost-config.php" and click properties
+- Navigate to "Security" Tab -> click "Advanced" -> click "Disable inheritance" at bottom left of window -> click "Remove all inherited permissions from this object
+- Click "Add" at bottom left of window -> click "Select a principal" -> type "Everyone" in object name text box -> click "Ok"
+- Under "Basic permissions" enable "Full control" check box
+- If done correctly, your window should look like the picture below:
+<img src="https://i.imgur.com/pltE6Mp.png" alt="Permissions window"/>
+
+- Click "Apply" -> click "Ok"
+    
+</p>
+<br />
+
+<h3>&#9350; Assign Permissions in "ost-config.php"</h3>
+
+<p>
+
+- fsf
 - 
     
 </p>
