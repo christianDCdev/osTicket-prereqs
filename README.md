@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install HeidiSQL from the <a href="https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD">osTicket Installation Files</a>
 
 <h2>Installation Steps</h2>
-<h3>&&#9312; Create a Virtual Machine(VM) in Azure</h3>
+<h3>&#9312; Create a Virtual Machine(VM) in Azure</h3>
 
 <p>
 
