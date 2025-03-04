@@ -314,3 +314,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <h2 align=center> Congratulations on successfully setting up osTicket on your Machine !</h2>
+
+<p>
+
+Please refer to <a href="https://github.com/christianDCdev/osTicket-post-install-config">osTicket: Post-Installation Configuration</a> after completing your installation to start configuring osTicket.
+    
+</p>
