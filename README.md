@@ -313,4 +313,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h2 align=center> Congratulations on successfully setting up osTicket on your Machine !!</h2>
+<h2 align=center> Congratulations on successfully setting up osTicket on your Machine !</h2>
